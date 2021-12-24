@@ -160,6 +160,12 @@ footer {
     box-shadow: 5px 0px var(--nice-blue);
     transition: all 200ms linear;
 }
+.about-me-section {
+    display: flex;
+    flex: 1 0 75%;
+    flex-wrap: wrap;
+    padding-left: 10px;
+}
  .text-format {
     display: flex;
     flex-wrap: wrap;
@@ -168,6 +174,19 @@ footer {
     padding-right: 20px;
     padding-left: 10px;
 }
+
+.photo-format {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 15%;
+    margin-top: 25px;
+    margin-right: 1%;
+}
+.photo-format img {
+    border-radius: var(--border-radius);
+}
+
 .projects {
     display: flex;
     flex-wrap: wrap;
@@ -339,6 +358,11 @@ footer {
 @media screen and (max-width: 798px) {
     .about-me {
         flex-direction: column;
+        flex: 0 0 100%; 
+    }
+    .about-me-section {
+        margin-left: 20%;
+        margin-right: 20%;
     }
     .header-image {
         flex-direction: column;
@@ -353,10 +377,14 @@ footer {
         box-shadow: 0px 5px var(--nice-blue);
         transition: all 200ms linear;
     }
+    .photo-format {
+        width: 76%;
+        flex-direction: column;
+        margin-top: 20px;
+}
+
     .text-format {
         margin-right: 9%;
-
-        margin-left: 11%;
         padding-top: 20px;
         padding-left: 35px;
         text-align: center;
