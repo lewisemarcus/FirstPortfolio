@@ -35,6 +35,10 @@ header {
     background-color: var(--nice-blue);
     font-family: 'Lucida Sans','Lucida Grande','Lucida Sans Unicode','Trebuchet MS', Arial, sans-serif;
 }
+header h1 {
+    padding-top: 10px;
+    padding-left: 10px;
+}
 
 header a{
     color: white;
