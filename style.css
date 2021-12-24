@@ -421,7 +421,7 @@ footer {
 
 @media screen and (min-width: 413px) and (max-width: 797px) {
     .header-card {
-        justify-content:space-around;
+        justify-content:space-evenly;
         flex: 1 0 50%;
         flex-direction: row;
     }  
