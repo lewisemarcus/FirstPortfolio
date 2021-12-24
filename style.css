@@ -18,7 +18,7 @@
 
 a, a:hover, a:focus, a:active {
     text-decoration: none;
-    color: var(--dark-blue);
+
 }
 h3 a {
     color: var(--dark-blue);
@@ -264,6 +264,14 @@ footer {
     box-shadow: 5px 5px 10px var(--shadow-color);
     transition: all 200ms linear;
   }
+.work-card-large a{
+    text-decoration: none;
+    color: var(--dark-blue);
+}
+.work-card a {
+    text-decoration: none;
+    color: var(--dark-blue);
+}
   .work-card img {
     top: 0;
     left: 0;
