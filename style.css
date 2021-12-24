@@ -328,7 +328,7 @@ footer {
     font-size: 125%;
 }
 .contacts h1 {
-    margin-right: 1%;
+    margin-right: 5px;
     padding: 10px;
     text-align: center;
     box-shadow: 5px 0px var(--nice-blue);
