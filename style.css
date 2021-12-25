@@ -390,9 +390,10 @@ certain pixel widths */
 }
 
     .text-format {
-        margin-right: 9%;
+        width: 100%;
+        margin-left: -10%;
         padding-top: 20px;
-        margin-left: 5px;
+
         text-align: center;
         transition: all 200ms linear;
     }
@@ -482,7 +483,5 @@ certain pixel widths */
     .work-card-large {
         margin-right: 4.95%;
     }
-    .text-format {
-    width: 74.9%;    
-    }
+    
 }
