@@ -13,3 +13,8 @@ No installation required.
 
 Built with HTML and CSS
 ![Photo of Website](https://i.imgur.com/sGMKUEH.png)
+
+# Credits
+## Contributors
+[Jeoffrey Batangan](https://github.com/mrjeoffrey) | sticky header and footer, formatting and positioning
+
