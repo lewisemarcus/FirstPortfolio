@@ -358,11 +358,11 @@ certain pixel widths */
 }
 
 #projects {
-    padding-top: 5vh;
+    padding-top: 10vh;
 }
 
-#contacts {
-    padding-top: 5vh;
+#contact {
+    padding-top: 10vh;
     padding-bottom: 50vh;
 }
 /*formats the container for the contact large header*/
