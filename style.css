@@ -353,6 +353,14 @@ certain pixel widths */
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
+#about-me {
+    padding-top: 10vh;
+}
+
+#projects {
+    padding-top: 5vh;
+}
+
 #contacts {
     padding-bottom: 50vh;
 }
