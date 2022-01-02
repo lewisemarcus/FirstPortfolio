@@ -127,6 +127,8 @@ certain pixel widths */
   }
 /*formatting the content within the image below the header*/
 .header-image {
+    margin-top: -25px;
+    margin-bottom: 50px;
     display: flex;
     flex-wrap: wrap;
     flex-direction: row-reverse;
