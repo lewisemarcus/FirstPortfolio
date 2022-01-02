@@ -362,6 +362,7 @@ certain pixel widths */
 }
 
 #contacts {
+    padding-top: 5vh;
     padding-bottom: 50vh;
 }
 /*formats the container for the contact large header*/
