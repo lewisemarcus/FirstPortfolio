@@ -176,6 +176,7 @@ certain pixel widths */
     display: flex;
     flex: 1 0 75%;
     flex-wrap: wrap;
+    margin-top: -10px;
     padding-left: 10px;
 }
  .text-format {
@@ -197,6 +198,8 @@ certain pixel widths */
 }
 .photo-format img {
     border-radius: var(--border-radius);
+    border: 4px solid #8a8a8a;
+    margin-bottom: 15px;
 }
 
 .projects {
