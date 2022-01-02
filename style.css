@@ -363,11 +363,13 @@ certain pixel widths */
 
 #about-me {
     padding-top: 10vh;
+    padding-bottom: 10vh;
     background-color: var(--grey);
 }
 
 #projects {
     padding-top: 10vh;
+    padding-bottom: 10vh;
 }
 
 #contact {
